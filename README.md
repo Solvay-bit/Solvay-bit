@@ -1,6 +1,6 @@
 # About me 👋
 
-- 🌱 I’m currently learning Flask whilst continuing to improve my knowledge of other python modules.
+- 🌱 I’m currently learning Django whilst continuing to improve my knowledge of other python modules.
 - 🤔 I’m looking for help with possible projects to get started freelancing.
   
 <!--
